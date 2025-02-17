@@ -17,7 +17,7 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 - **Git & GitHub for version control**
 
 ## 🎥 Demo
-![Website Screenshot](images/website.PNG) *(Replace with an actual screenshot of your website)*
+![Website Screenshot](images/website.PNG)(images/website 2.PNG) *(Replace with an actual screenshot of your website)*
 
 ## 📝 How to Use
 1. Clone the repository:
