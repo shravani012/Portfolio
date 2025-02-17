@@ -29,7 +29,7 @@ https://github.com/shravani012/Portfolio.git
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out.
 
-- **Email:** joshishravani78@gmail.com
+- **Email:** your.email@example.com
 - **GitHub:** [shravani012](https://github.com/shravani012)
 
 
